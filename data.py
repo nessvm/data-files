@@ -42,7 +42,7 @@ def main():
     for i in range(n):
         data['variables'][0]['values'].append(
             [
-                fake.bothify(text="???-####")
+                fake.bothify(text="???-####").upper()
             ]
         )
 
