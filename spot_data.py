@@ -10,8 +10,9 @@ def main():
     fake = Factory.create('es_MX')
     data = OrderedDict()
     data['version'] = 1
-    data['keys'] = ['address', 'photo']
-    data['values'] = list()
+    data['variables'] = [OrderedDict(), ]
+    data['variables'][0]['names'] = ['address', 'photo']
+    data['variables'][0]['values'] = list()
 
     for i in range(n):
         address = {
@@ -24,7 +25,7 @@ def main():
             'latitude': 0.0,
             'longitude': 0.0
         }
-        data['values'].append(
+        data['variables'][0]['values'].append(
             [
                 address, fake.image_url()
             ]
