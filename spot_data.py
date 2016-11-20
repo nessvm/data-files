@@ -15,16 +15,16 @@ def main():
     data['variables'][0]['values'] = list()
 
     for i in range(n):
-        address = {
+        address = OrderedDict({
             'street_address': fake.street_address(),
-            'suite': fake.random_int(),
+            'suite': str(fake.random_int()),
             'colony': fake.city(),
             'municipality': 'Cuauhtémoc',
             'state': 'AGS',
             'postal_code': '00000',
             'latitude': 0.0,
             'longitude': 0.0
-        }
+        })
         data['variables'][0]['values'].append(
             [
                 address, fake.image_url()
