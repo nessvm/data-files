@@ -3,204 +3,101 @@
     "variables": [
         {
             "names": [
-                "address",
+                "street_address",
+                "suite",
+                "colony",
                 "photo"
             ],
             "values": [
                 [
-                    {
-                        "street_address": "Ampliación Mascareñas 659 Interior 162",
-                        "colony": "Nueva Côte d'Ivoire",
-                        "longitude": 0.0,
-                        "suite": "5830",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://dummyimage.com/364x766"
+                    "Prolongación México 353 Interior 867",
+                    "1153",
+                    "Vieja Papua Nueva Guinea",
+                    "http://dummyimage.com/329x285"
                 ],
                 [
-                    {
-                        "street_address": "Pasaje Norte Holguín 141 Edif. 729 , Depto. 797",
-                        "colony": "Nueva Canadá",
-                        "longitude": 0.0,
-                        "suite": "6309",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=798×11&w=798&h=11"
+                    "Andador Kirguistán 211 847",
+                    "2869",
+                    "Nueva Brasil",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=90×363&w=90&h=363"
                 ],
                 [
-                    {
-                        "street_address": "Andador Togo 502 Edif. 016 , Depto. 336",
-                        "colony": "San Susana de la Montaña",
-                        "longitude": 0.0,
-                        "suite": "2251",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=126×470&w=126&h=470"
+                    "Diagonal Chihuahua 179 Interior 872",
+                    "9756",
+                    "Nueva República Federal Democrática de Nepal",
+                    "http://www.lorempixel.com/469/631"
                 ],
                 [
-                    {
-                        "street_address": "Avenida Sonora 468 235",
-                        "colony": "San Alberto los altos",
-                        "longitude": 0.0,
-                        "suite": "1258",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://www.lorempixel.com/519/1000"
+                    "Eje vial Sur Alarcón 349 Interior 604",
+                    "3179",
+                    "Vieja Italia",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=564×456&w=564&h=456"
                 ],
                 [
-                    {
-                        "street_address": "Cerrada Iraq 608 Edif. 520 , Depto. 606",
-                        "colony": "San Lucas los bajos",
-                        "longitude": 0.0,
-                        "suite": "2510",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://www.lorempixel.com/468/584"
+                    "Pasaje Chihuahua 925 Interior 774",
+                    "6933",
+                    "Nueva Tayikistán",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=784×322&w=784&h=322"
                 ],
                 [
-                    {
-                        "street_address": "Continuación Garica 591 Edif. 417 , Depto. 498",
-                        "colony": "Nueva Ucrania",
-                        "longitude": 0.0,
-                        "suite": "4789",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=653×906&w=653&h=906"
+                    "Callejón Sur Lira 377 Edif. 562 , Depto. 021",
+                    "5341",
+                    "Nueva Nueva Zelandia",
+                    "http://dummyimage.com/675x743"
                 ],
                 [
-                    {
-                        "street_address": "Corredor Fajardo 188 Interior 175",
-                        "colony": "Nueva Canadá",
-                        "longitude": 0.0,
-                        "suite": "9853",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://www.lorempixel.com/965/540"
+                    "Pasaje Norte Armendáriz 198 Interior 025",
+                    "8962",
+                    "Vieja Reino Unido de Gran Bretaña e Irlanda del Norte",
+                    "http://www.lorempixel.com/82/245"
                 ],
                 [
-                    {
-                        "street_address": "Viaducto Grecia 343 254",
-                        "colony": "San Abril de la Montaña",
-                        "longitude": 0.0,
-                        "suite": "5942",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=237×831&w=237&h=831"
+                    "Viaducto Sur Treviño 898 200",
+                    "4458",
+                    "Nueva Albania",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=20×296&w=20&h=296"
                 ],
                 [
-                    {
-                        "street_address": "Continuación Norte Márquez 552 509",
-                        "colony": "San Aurelio de la Montaña",
-                        "longitude": 0.0,
-                        "suite": "8839",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://www.lorempixel.com/329/473"
+                    "Periférico Vallejo 556 Interior 221",
+                    "8164",
+                    "San Martín los bajos",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=792×693&w=792&h=693"
                 ],
                 [
-                    {
-                        "street_address": "Circunvalación Norte Caraballo 150 345",
-                        "colony": "Nueva República de Corea",
-                        "longitude": 0.0,
-                        "suite": "5685",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://dummyimage.com/50x520"
+                    "Viaducto Sur Hurtado 893 112",
+                    "2196",
+                    "San Timoteo los bajos",
+                    "http://www.lorempixel.com/806/59"
                 ],
                 [
-                    {
-                        "street_address": "Avenida Ramón 106 Interior 369",
-                        "colony": "Vieja Sri Lanka",
-                        "longitude": 0.0,
-                        "suite": "1952",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "http://dummyimage.com/677x619"
+                    "Continuación Santillán 745 Interior 726",
+                    "4029",
+                    "Nueva Polonia",
+                    "http://www.lorempixel.com/545/10"
                 ],
                 [
-                    {
-                        "street_address": "Peatonal Zacatecas 393 Interior 778",
-                        "colony": "San Víctor los bajos",
-                        "longitude": 0.0,
-                        "suite": "8447",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=744×71&w=744&h=71"
+                    "Peatonal Oaxaca 359 199",
+                    "4551",
+                    "San Ariadna los bajos",
+                    "http://www.lorempixel.com/649/881"
                 ],
                 [
-                    {
-                        "street_address": "Circunvalación República Centroafricana 106 359",
-                        "colony": "Nueva Uganda",
-                        "longitude": 0.0,
-                        "suite": "3917",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=286×654&w=286&h=654"
+                    "Corredor Croacia 821 Interior 703",
+                    "993",
+                    "San Andrés los bajos",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=33×711&w=33&h=711"
                 ],
                 [
-                    {
-                        "street_address": "Pasaje Michoacán de Ocampo 539 868",
-                        "colony": "San Violeta los altos",
-                        "longitude": 0.0,
-                        "suite": "1198",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=618×584&w=618&h=584"
+                    "Ampliación Sur Montalvo 359 992",
+                    "1949",
+                    "San Rocío de la Montaña",
+                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=719×947&w=719&h=947"
                 ],
                 [
-                    {
-                        "street_address": "Calzada Ledesma 607 Interior 958",
-                        "colony": "San Sofía de la Montaña",
-                        "longitude": 0.0,
-                        "suite": "7667",
-                        "latitude": 0.0,
-                        "municipality": "Cuauhtémoc",
-                        "postal_code": "00000",
-                        "state": "AGS"
-                    },
-                    "https://placeholdit.imgix.net/~text?txtsize=55&txt=262×695&w=262&h=695"
+                    "Viaducto Covarrubias 741 Edif. 091 , Depto. 167",
+                    "6458",
+                    "Vieja Micronesia",
+                    "http://www.lorempixel.com/48/221"
                 ]
             ]
         }

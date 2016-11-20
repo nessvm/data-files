@@ -11,23 +11,18 @@ def main():
     data = OrderedDict()
     data['version'] = 1
     data['variables'] = [OrderedDict(), ]
-    data['variables'][0]['names'] = ['address', 'photo']
+    data['variables'][0]['names'] = [
+        'street_address', 'suite', 'colony', 'photo'
+    ]
     data['variables'][0]['values'] = list()
 
     for i in range(n):
-        address = OrderedDict({
-            'street_address': fake.street_address(),
-            'suite': str(fake.random_int()),
-            'colony': fake.city(),
-            'municipality': 'Cuauhtémoc',
-            'state': 'AGS',
-            'postal_code': '00000',
-            'latitude': 0.0,
-            'longitude': 0.0
-        })
         data['variables'][0]['values'].append(
             [
-                address, fake.image_url()
+                fake.street_address(),
+                str(fake.random_int()),
+                fake.city(),
+                fake.image_url()
             ]
         )
 
