@@ -9,6 +9,7 @@ def main():
     n = int(sys.argv[1])
     fake = Factory.create('es_MX')
     data = OrderedDict()
+    data['version'] = 1
     data['keys'] = ['address', 'photo']
     data['values'] = list()
 
