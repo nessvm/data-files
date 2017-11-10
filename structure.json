@@ -1,0 +1,1384 @@
+{
+    "domain-groups": [
+        {
+            "title": "global-apis",
+            "sections": [
+                {
+                    "name": "data",
+                    "domains": [
+                        {
+                            "display-name": "calendar",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-calendar",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "catalogs",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-catalogs",
+                            "tag": [
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "geographicplaces",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-geographicplaces",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0",
+                                "0.4.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "pois",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-pois",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "branches",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-branches",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "appSettings",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-appsettings",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "images",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-images",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "termsAndConditions",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-termsandconditions",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "vehicles",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-data-vehicles",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "enterprises",
+                    "domains": [
+                        {
+                            "display-name": "promotions",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-enterprises-promotions",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0",
+                                "0.3.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "stores",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-enterprises-stores",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "merchants",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-enterprises-merchants",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "finances",
+                    "domains": [
+                        {
+                            "display-name": "personalFinances",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-finances-personalfinances",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0",
+                                "0.3.0",
+                                "0.4.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "insurances",
+                    "domains": [
+                        {
+                            "display-name": "fraudInsurances",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-insurances-fraudinsurances",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "mobile",
+                    "domains": [
+                        {
+                            "display-name": "mobiles",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-mobile-mobiles",
+                            "tag": [
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0",
+                                "0.4.0",
+                                "0.5.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "paymentMethods",
+                    "domains": [
+                        {
+                            "display-name": "payments",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-paymentmethods-payments",
+                            "tag": [
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0",
+                                "0.5.1",
+                                "0.7.0",
+                                "0.6.0",
+                                "0.8.0",
+                                "0.9.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "transfers",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-paymentmethods-transfers",
+                            "tag": [
+                                "0.6.0",
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0",
+                                "0.7.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "people",
+                    "domains": [
+                        {
+                            "display-name": "businesses",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-businesses",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "contactsBook",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-contactsbook",
+                            "tag": [
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "contracts",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-contracts",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "customers",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-customers",
+                            "tag": [
+                                "0.14.0",
+                                "0.13.0",
+                                "0.12.0",
+                                "0.11.0",
+                                "0.10.0",
+                                "0.9.0",
+                                "0.8.0",
+                                "0.7.0",
+                                "0.6.0",
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.2",
+                                "0.1.1",
+                                "0.1.0",
+                                "0.15.0",
+                                "0.16.0",
+                                "0.17.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "employees",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-employees",
+                            "tag": [
+                                "0.1.2",
+                                "0.1.1",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "receivers",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-receivers",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "risks",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-risks",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0",
+                                "0.4.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "loyalty",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-loyalty",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "userSettings",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-usersettings",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "parties",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-parties",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "limits",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-limits",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "nonCustomers",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-people-noncustomers",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "products",
+                    "domains": [
+                        {
+                            "display-name": "accounts",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-accounts",
+                            "tag": [
+                                "0.20.0",
+                                "0.19.0",
+                                "0.18.0",
+                                "0.17.0",
+                                "0.16.0",
+                                "0.15.0",
+                                "0.14.0",
+                                "0.13.0",
+                                "0.12.0",
+                                "0.11.0",
+                                "0.10.0",
+                                "0.9.0",
+                                "0.8.0",
+                                "0.7.0",
+                                "0.6.0",
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0",
+                                "0.21.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "campaigns",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-campaigns",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "cards",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-cards",
+                            "tag": [
+                                "0.21.0",
+                                "0.20.0",
+                                "0.19.0",
+                                "0.18.0",
+                                "0.17.0",
+                                "0.16.0",
+                                "0.15.0",
+                                "0.14.0",
+                                "0.13.0",
+                                "0.12.0",
+                                "0.11.0",
+                                "0.10.0",
+                                "0.9.0",
+                                "0.8.0",
+                                "0.7.0",
+                                "0.6.0",
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0",
+                                "0.22.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "deposits",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-deposits",
+                            "tag": [
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "exchangeRates",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-exchangerates",
+                            "tag": [
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "investmentFundProducts",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-investmentfundproducts",
+                            "tag": [
+                                "0.1.2",
+                                "0.1.1",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "investmentFunds",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-investmentfunds",
+                            "tag": [
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.2",
+                                "0.2.1",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "loans",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-loans",
+                            "tag": [
+                                "0.9.0",
+                                "0.8.0",
+                                "0.7.0",
+                                "0.6.0",
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0",
+                                "0.10.0",
+                                "0.11.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "products",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-products",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.2",
+                                "0.1.1",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "transactions",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-transactions",
+                            "tag": [
+                                "0.7.0",
+                                "0.6.0",
+                                "0.5.0",
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.1",
+                                "0.1.0",
+                                "0.8.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "managementEntityFunds",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-products-managemententityfunds",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "risks",
+                    "domains": [
+                        {
+                            "display-name": "risksProfitabilities",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-risks-risksprofitabilities",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "security",
+                    "domains": [
+                        {
+                            "display-name": "security",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-security-security",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.1",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "technical",
+                    "domains": [
+                        {
+                            "display-name": "apiAggregator",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-technical-apiaggregator",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                },
+                {
+                    "name": "dataAnalytics",
+                    "domains": [
+                        {
+                            "display-name": "recommendations",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-apis-dataanalytics-recommendations",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "local-apis",
+            "sections": [
+                {
+                    "name": "people",
+                    "domains": [
+                        {
+                            "display-name": "customers",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-people-customers",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0",
+                                "0.4.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "customers",
+                            "repository-url": "/bitbucket/projects/COAPI/repos/coapi-co-apis-people-customers",
+                            "tag": [
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "co"
+                        },
+                        {
+                            "display-name": "customerservices",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-people-customerservices",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "nonCustomers",
+                            "repository-url": "/bitbucket/projects/ESAPI/repos/esapi-es-apis-people-noncustomers",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "es"
+                        }
+                    ]
+                },
+                {
+                    "name": "products",
+                    "domains": [
+                        {
+                            "display-name": "loans",
+                            "repository-url": "/bitbucket/projects/CLAPI/repos/clapi-cl-apis-products-loans",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "cl"
+                        },
+                        {
+                            "display-name": "notifications",
+                            "repository-url": "/bitbucket/projects/CLAPI/repos/clapi-cl-apis-products-notifications",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0",
+                                "0.4.0"
+                            ],
+                            "country": "cl"
+                        },
+                        {
+                            "display-name": "accounts",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-accounts",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0",
+                                "0.3.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "cards",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-cards",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "notifications",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-notifications",
+                            "tag": [
+                                "0.1.0",
+                                "0.3.0",
+                                "0.2.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "operationregistries",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-operationregistries",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "accounts",
+                            "repository-url": "/bitbucket/projects/VEAPI/repos/veapi-ve-apis-products-accounts",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "ve"
+                        },
+                        {
+                            "display-name": "accounts",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-accounts",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "escrows",
+                            "repository-url": "/bitbucket/projects/VEAPI/repos/veapi-ve-apis-products-escrows",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "ve"
+                        },
+                        {
+                            "display-name": "notifications",
+                            "repository-url": "/bitbucket/projects/VEAPI/repos/veapi-ve-apis-products-notifications",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "ve"
+                        },
+                        {
+                            "display-name": "cards",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-cards",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "creditApprovals",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-creditapprovals",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "creditScores",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-creditscores",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "exchangeRates",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-exchangerates",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "financialStatements",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-financialstatements",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "financialStatements",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-financialstatements",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "insurances",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-insurances",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "offers",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-offers",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "pockets",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-pockets",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "preQualifications",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-prequalifications",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "proposals",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-proposals",
+                            "tag": [
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "protests",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-protests",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "ratings",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-ratings",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "tariffSchemas",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-products-tariffschemas",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "deposits",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-deposits",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "investmentFunds",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-products-investmentfunds",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "mx"
+                        },
+                        {
+                            "display-name": "loans",
+                            "repository-url": "/bitbucket/projects/ESAPI/repos/esapi-es-apis-products-loans",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "es"
+                        },
+                        {
+                            "display-name": "managementEntityFunds",
+                            "repository-url": "/bitbucket/projects/ESAPI/repos/esapi-es-apis-products-managemententityfunds",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "es"
+                        }
+                    ]
+                },
+                {
+                    "name": "data",
+                    "domains": [
+                        {
+                            "display-name": "catalogs",
+                            "repository-url": "/bitbucket/projects/CLAPI/repos/clapi-cl-apis-data-catalogs",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "cl"
+                        },
+                        {
+                            "display-name": "partnersConfigurations",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-data-partnersconfigurations",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "us"
+                        }
+                    ]
+                },
+                {
+                    "name": "paymentMethods",
+                    "domains": [
+                        {
+                            "display-name": "payments",
+                            "repository-url": "/bitbucket/projects/CLAPI/repos/clapi-cl-apis-paymentmethods-payments",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "cl"
+                        },
+                        {
+                            "display-name": "payments",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-paymentmethods-payments",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0",
+                                "0.3.0",
+                                "0.4.0",
+                                "0.5.0"
+                            ],
+                            "country": "us"
+                        },
+                        {
+                            "display-name": "reloads",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-paymentmethods-reloads",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        }
+                    ]
+                },
+                {
+                    "name": "quotations",
+                    "domains": [
+                        {
+                            "display-name": "parameters",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-quotations-parameters",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "quotations",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-quotations-quotations",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "pe"
+                        },
+                        {
+                            "display-name": "simulations",
+                            "repository-url": "/bitbucket/projects/PEAPI/repos/peapi-pe-apis-quotations-simulations",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "pe"
+                        }
+                    ]
+                },
+                {
+                    "name": "events",
+                    "domains": [
+                        {
+                            "display-name": "events",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-events-events",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "us"
+                        }
+                    ]
+                },
+                {
+                    "name": "operations",
+                    "domains": [
+                        {
+                            "display-name": "ofac",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-operations-ofac",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "us"
+                        }
+                    ]
+                },
+                {
+                    "name": "security",
+                    "domains": [
+                        {
+                            "display-name": "security",
+                            "repository-url": "/bitbucket/projects/MXAPI/repos/mxapi-mx-apis-security-security",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "mx"
+                        }
+                    ]
+                },
+                {
+                    "name": "risks",
+                    "domains": [
+                        {
+                            "display-name": "risks",
+                            "repository-url": "/bitbucket/projects/ESAPI/repos/esapi-es-apis-risks-risks",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "es"
+                        }
+                    ]
+                },
+                {
+                    "name": "internal",
+                    "domains": [
+                        {
+                            "display-name": "customers",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-internal-customers",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "us"
+                        },
+                        {
+                            "display-name": "events",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-internal-events",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "us"
+                        },
+                        {
+                            "display-name": "geographicalUtils",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-internal-geographicalutils",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "us"
+                        },
+                        {
+                            "display-name": "payments",
+                            "repository-url": "/bitbucket/projects/USAPI/repos/usapi-us-apis-internal-payments",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "us"
+                        }
+                    ]
+                }                
+            ]
+        },
+        {
+            "title": "global-ai",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "assets",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-ai-apis-assets",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "qas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-ai-apis-qas",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-channels",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "devices",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-channels-apis-devices",
+                            "tag": [
+                                "0.4.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "notificationsGateway",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-channels-apis-notificationsgateway",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-cosa",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "host",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cosa-apis-host",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-cryptography",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "certaas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cryptography-apis-certaas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "cryptoaas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cryptography-apis-cryptoaas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "ksaas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cryptography-apis-ksaas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "mksaas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cryptography-apis-mksaas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "signaas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cryptography-apis-signaas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "ssaas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-cryptography-apis-ssaas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-paas",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "atlas",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-paas-apis-atlas",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "components",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-paas-apis-components",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "gic",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-paas-apis-gic",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "jobManager",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-paas-apis-jobmanager",
+                            "tag": [
+                                "0.1.0",
+                                "0.3.0",
+                                "0.2.0",
+                                "0.4.0",
+                                "0.5.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-platform",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "caches",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-platform-apis-caches",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "configManager",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-platform-apis-configmanager",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "crons",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-platform-apis-crons",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-processes",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "bpmUsers",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-processes-apis-bpmusers",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "processes",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-processes-apis-processes",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-security",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "authenticationController",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-security-apis-authenticationcontroller",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "credentialsLifeCycle",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-security-apis-credentialslifecycle",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0",
+                                "0.3.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "zeroInformationSet",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-security-apis-zeroinformationset",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "facialBiometrics",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-security-apis-facialbiometrics",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "documentsVerifications",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-security-apis-documentsverifications",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "global-seiri",
+            "sections": [
+                {
+                    "name": "apis",
+                    "domains": [
+                        {
+                            "display-name": "documents",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-seiri-apis-documents",
+                            "tag": [
+                                "0.2.0",
+                                "0.1.0",
+                                "0.3.0",
+                                "0.4.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "evidences",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-seiri-apis-evidences",
+                            "tag": [
+                                "0.1.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "logicalFolders",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-seiri-apis-logicalfolders",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "processes",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-seiri-apis-processes",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        },
+                        {
+                            "display-name": "taxonomies",
+                            "repository-url": "/bitbucket/projects/GLAPI/repos/glapi-global-seiri-apis-taxonomies",
+                            "tag": [
+                                "0.1.0",
+                                "0.2.0"
+                            ],
+                            "country": "global"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
